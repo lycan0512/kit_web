@@ -1,0 +1,59 @@
+section{
+    margin: 10px;
+    width: 70%;
+}
+
+details{
+    margin: 10px;
+    width: 70%;
+}
+
+details summary{
+    font-size: x-large;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+
+#image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+
+.profile_img {
+    border-radius: 50%;
+}
+
+header {
+    background-color: orange;
+}
+
+header a {
+    color: white;
+    font-size: xx-larege;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+footer {
+    background-color: blue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer>h3 {
+    color: gray
+}
